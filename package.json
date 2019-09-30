@@ -31,8 +31,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
@@ -41,6 +41,6 @@
     "babelify": "^10.0.0",
     "browserify": "^16.2.3",
     "sass": "^1.15.2",
-    "uglifyify": "^5.0.1"
+    "uglifyify": "^5.0.2"
   }
 }
